@@ -6,4 +6,5 @@
         res="PyeongNyeon"
     return res
 
-FindingYoonNyeon(2016)
+result=FindingYoonNyeon(2016)
+print result
